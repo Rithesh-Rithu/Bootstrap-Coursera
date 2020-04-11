@@ -63,3 +63,11 @@ body{
 .form-row{
     margin: 25px 5px 5px 5px;
 }
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
